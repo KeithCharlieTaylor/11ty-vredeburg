@@ -4,6 +4,10 @@ Project notes here with original README below. Then I'll rewrite this if it work
 
 ## 210519a 1st Config
 As per Configuration notes from original below (edit `src/_data/`).
+- author.json
+- menu.json
+- site.js
+
 
 ***
 
