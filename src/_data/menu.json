@@ -1,15 +1,15 @@
 [
     {
         "label": "About",
-        "url": "/about"
+        "url": "/about-DOMAIN"
     },
     {
         "label": "Tag List",
         "url": "/tags"
     },
     {
-        "label": "GitHub",
-        "url": "https://github.com/dafiulh/vredeburg",
+        "label": "Search",
+        "url": "#link-to-gcse-instructions",
         "newTab": true
     }
 ]

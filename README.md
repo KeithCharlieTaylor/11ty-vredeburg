@@ -1,4 +1,17 @@
-# Vredeburg
+# Eleventy Blog Template for Keith
+
+Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to deploy to Cloudflare Pages. Then add PWA capabilities, including push notifications (OneSignal).
+
+## 210519a 1st Config
+As per Configuration notes from original below (edit `src/_data/`).
+- author.json
+- menu.json
+- site.js
+
+
+***
+
+## Original Vredeburg Readme
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a1d36fc9-4471-4679-902c-337449ccb59d/deploy-status)](https://app.netlify.com/sites/vredeburg/deploys)
 
 A simple starter project to create a blog using Eleventy and Tailwind CSS
