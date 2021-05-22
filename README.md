@@ -2,6 +2,11 @@
 
 Project notes here with original README below. Then I'll rewrite this if it works. Initially, I want to deploy to Cloudflare Pages. Then add PWA capabilities, including push notifications (OneSignal).
 
+## 210522a Change About
+Original is /about/ but my standard is /about-domain/ - previously, changed menu but not page.
+
+Unfortunately, there's no obvious way to writ a proper About Page in this starter. It's probably easy to figure out. Or I might ignore 'Pages' altogether. But as there are also some Lighthouse issues, I'll put this template on hold. Though I hope to return to it later, as I like the blog layout
+
 ## 210519a 1st Config
 As per Configuration notes from original below (edit `src/_data/`).
 - author.json
